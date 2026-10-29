@@ -4,14 +4,26 @@
 
 ---
 
+## 📸 App Screenshots
+
+| 🥦 Fresh Produce Catalog | 🛒 Cart & Delivery Details |
+| :---: | :---: |
+| <img src="screenshots/1_products.png" width="360" alt="Products Screen" /> | <img src="screenshots/2_cart.png" width="360" alt="Cart Screen" /> |
+
+| 📲 Social Media & Contacts | ✅ Order Confirmation Modal |
+| :---: | :---: |
+| <img src="screenshots/3_social.png" width="360" alt="Social Screen" /> | <img src="screenshots/4_order_dialog.png" width="360" alt="Order Dialog" /> |
+
+---
+
 ## 🌟 Key Features
 
 - ** Fresh Produce Catalog (Priced in KSh)**:
-  - **Vegetables**: Fresh Tomatoes (*Nyanya*), Sukuma Wiki (*Kale*), Spinach, Red Onions, Potatoes (*Waru*), Carrots, Cabbage, Green Capsicum (*Hoho*), and Garlic.
-  - **Fruits**: Sweet Bananas (*Ndizi*), Ripe Mangoes, Hass Avocados, Watermelon, and Oranges.
-  - **Mama Goods**: Fresh Eggs (*Mayai*), Refined Cooking Oil, Maize Flour (*Sembe / Unga wa Ugali*), Pishori Rice, and Yellow Beans.
+  - **Vegetables**: Fresh Tomatoes (*Nyanya* - KSh 80/kg), Sukuma Wiki (*Kale* - KSh 30/bunch), Spinach (KSh 30/bunch), Red Onions (KSh 120/kg), Potatoes (*Waru* - KSh 150/kg), Carrots (KSh 70/kg), Cabbage (KSh 60/head), Green Capsicum (*Hoho* - KSh 100/kg), and Garlic (KSh 50).
+  - **Fruits**: Sweet Bananas (*Ndizi* - KSh 100/bunch), Ripe Mangoes (KSh 120/kg), Hass Avocados (KSh 40/pc), Watermelon (KSh 200/slice), and Oranges (KSh 150/kg).
+  - **Mama Goods**: Fresh Eggs (*Mayai* - KSh 300/tray), Refined Cooking Oil (KSh 180/L), Maize Flour (*Sembe / Unga wa Ugali* - KSh 150/2kg), Pishori Rice (KSh 220/kg), and Yellow Beans (KSh 160/kg).
 - ** Distinct Produce Icons**:
-  - Custom vector drawables for every produce item (e.g., tomato, kale, banana, avocado, eggs, oil, etc.).
+  - Custom vector drawables for every produce item (tomato, kale, banana, avocado, eggs, oil, flour, etc.).
 - ** Real-time Shopping Cart**:
   - Add items to cart with single-tap controls.
   - Adjust quantities (`+` / `-`) or remove items seamlessly.
@@ -20,13 +32,14 @@
 - ** Delivery Location & House Details**:
   - Delivery Location / Estate input field (e.g., *Kileleshwa, Mandera Road*).
   - House / Apartment / Door Number field (e.g., *Apt B4, Green Heights*).
-  - Phone Number for M-Pesa & delivery updates.
+  - Customer Phone Number field for M-Pesa & delivery updates.
 - ** Social Media Accounts & Direct Contact**:
   - **WhatsApp**: Direct chat with prefilled order inquiry (*+254 712 345 678*).
   - **Facebook**: `@MamaMbogaFreshKE`
   - **Instagram**: `@mamamboga_fresh`
   - **Twitter / X**: `@MamaMbogaKE`
-  - **Phone Call**: Direct dialer support.
+  - **Phone Call**: Direct dialer support (*+254 712 345 678*).
+  - Physical market location (*City Market Stall 42, Nairobi*).
 - ** M-Pesa Order Placement**:
   - Interactive Bottom Sheet confirmation dialog displaying Order ID, delivery address, total amount paid, and direct **Track Order on WhatsApp** button.
 
