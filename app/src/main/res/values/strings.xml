@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mama Mboga Fresh</string>
+    <string name="app_tagline">Soko Mkononi • Fresh Produce Delivered Fast</string>
+    <string name="tab_products">Products</string>
+    <string name="tab_cart">My Cart</string>
+    <string name="tab_social">Social &amp; Contact</string>
+    <string name="category_all">All Items</string>
+    <string name="category_veggies">Vegetables</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_goods">Mama Goods</string>
+    <string name="search_hint">Search tomatoes, sukuma, bananas&#8230;</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="cart_empty_title">Your Cart is Empty</string>
+    <string name="cart_empty_subtitle">Select fresh vegetables and fruits to start your order!</string>
+    <string name="delivery_details_header">Delivery Information</string>
+    <string name="location_label">Delivery Location / Estate</string>
+    <string name="location_hint">e.g. Kileleshwa, Mandera Road</string>
+    <string name="house_number_label">House / Apt / Door Number</string>
+    <string name="house_number_hint">e.g. Apt B4, Green Heights</string>
+    <string name="phone_label">Phone Number for Delivery Updates</string>
+    <string name="phone_hint">e.g. 0712 345 678</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="items_subtotal">Items Subtotal</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="total_price">Total Amount</string>
+    <string name="free_delivery">FREE (Orders over KSh 1,000)</string>
+    <string name="place_order">Place Order (KSh)</string>
+    <string name="social_header">Connect with Mama Mboga</string>
+    <string name="social_subtitle">Chat with us on WhatsApp, follow our socials, or call us directly for inquiries!</string>
+</resources>

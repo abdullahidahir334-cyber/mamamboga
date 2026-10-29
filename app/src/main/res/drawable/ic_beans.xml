@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M12,4C8,4 5,8 5,12C5,16 8,20 12,20C16,20 19,16 19,12C19,8 16,4 12,4Z"/>
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M12,6C9.5,6 7,9 7,12C7,15 9.5,18 12,18C14.5,18 17,15 17,12C17,9 14.5,6 12,6Z"/>
+    <!-- Eye of bean -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,10H13V14H11V10Z"/>
+</vector>

@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Bag Body -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M5,7L7,3H17L19,7V20C19,21.1 18.1,22 17,22H7C5.9,22 5,21.1 5,20V7Z"/>
+    <!-- Bag Label -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M7,10H17V16H7V10Z"/>
+    <!-- Grain Spike Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,11V15M10,12L12,13M14,12L12,13M10,14L12,15M14,14L12,15"
+        android:strokeWidth="1"
+        android:strokeColor="#FFFFFF"/>
+</vector>

@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Cap -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M10,2H14V4H10V2Z"/>
+    <!-- Bottle Neck -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M11,4H13V7H11V4Z"/>
+    <!-- Bottle Body -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M7,8C7,7.5 7.5,7 8,7H16C16.5,7 17,7.5 17,8V21C17,21.5 16.5,22 16,22H8C7.5,22 7,21.5 7,21V8Z"/>
+    <!-- Oil Drop -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M12,11C12,11 9.5,14 9.5,15.5C9.5,16.9 10.6,18 12,18C13.4,18 14.5,16.9 14.5,15.5C14.5,14 12,11 12,11Z"/>
+</vector>

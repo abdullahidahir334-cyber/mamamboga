@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M16,5C11,4 5,8 4,12C3,17 7,20 12,20C17,20 21,16 20,11C19.5,8.5 18,5.5 16,5Z"/>
+    <!-- Spots -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M8,10A1,1 0,1 1,6,10A1,1 0,1 1,8,10ZM14,8A1,1 0,1 1,12,8A1,1 0,1 1,14,8ZM11,15A1,1 0,1 1,9,15A1,1 0,1 1,11,15ZM16,14A1,1 0,1 1,14,14A1,1 0,1 1,16,14Z"/>
+</vector>
